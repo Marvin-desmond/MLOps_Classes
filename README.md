@@ -1,6 +1,6 @@
 ## MLOPs_ZoomCamp_Course
 
-This is a repository for datasets, notebooks and completed assignments
+GitHub repo for datasets, notebooks and completed assignments
 related to the MLOps ZoomCamp course 2022
 
 ### Official DataTalks ZoomCamp repo:
