@@ -1,6 +1,4 @@
-from click import Tuple
 from prefect import flow, task
-from prefect.task_runners import SequentialTaskRunner
 from prefect.logging import get_run_logger
 import pickle
 
@@ -111,5 +109,3 @@ DeploymentSpec(
     flow_runner = SubprocessFlowRunner()
 )
 
-
-# prefect orion database reset -y
